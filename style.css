@@ -7,6 +7,10 @@ html {
 
 header {color:White; background:Green;}
 
-main {padding: 5px; border: 1px solid Tomato;}
+main {padding: 5px; border: 1px solid Orange;}
 
 nav li {display:inline; border: 1px solid Green;}
+
+main figure { display: block; align-content: center; background:Orange;}
+
+figcaption { display: block;color:Navy;}
