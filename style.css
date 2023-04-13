@@ -7,6 +7,8 @@ html {
 
 header {color:White; text-align: center; background:Green;}
 
+header h2{ color:Orange;}
+
 main {padding: 5px; border: 1px solid Orange;}
 
 nav { margin-left: auto; margin-right: auto;}
