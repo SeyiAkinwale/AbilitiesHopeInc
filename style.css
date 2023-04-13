@@ -14,3 +14,5 @@ nav li {display:inline; border: 1px solid Green;}
 main figure img { display: block; align-content: center; background:Orange; margin-left: auto; margin-right:auto; padding: 5px; border: 30px navy;}
 
 figcaption { display: block;color:Navy;}
+
+footer {}
