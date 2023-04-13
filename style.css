@@ -15,4 +15,4 @@ main figure img { display: block; align-content: center; background:Orange; marg
 
 figcaption { display: block;color:Navy;}
 
-footer {}
+footer {font-style: italic;}
