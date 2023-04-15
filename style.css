@@ -5,20 +5,23 @@ html {
 
 * { margin : 0px ; box-sizing : border-box;}
 
-header {color:White; text-align: center; background:Green;}
+header {display: block; color:Green; text-align: center; }
 
-header h2{ color:Orange;}
+
+header img{ display: inline-block; width: 40px; height: 40px; vertical-align: middle; }
+
+header h1{display: inline-block; vertical-align: middle;}
 
 main {padding: 5px; border: 1px solid Orange;}
 
-nav { margin-left: auto; margin-right: auto;}
+nav {display:block;  text-align: center; margin-left: auto; margin-right: auto;}
 
-nav li {display:inline; border: 1px solid Green;}
+nav li { display:inline-block; }
 
 main figure img { display: block; align-content: center; background:Orange; margin-left: auto; margin-right:auto; padding: 5px; border: 30px navy;}
 
 main h3 {color:White; text-align: center; background:Green;}
 
-figcaption { display: block;color:Navy;}
+figcaption { display: block;color:Navy; margin-left: auto; margin-right:auto; text-align:center;}
 
 footer {font-style: italic;}
