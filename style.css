@@ -1,12 +1,12 @@
 html {
   height: 100%;
   width: 100%;
-  background-image: linear-gradient(to right, green , white, white, white,  green);
+  background-image: linear-gradient(to right, navy ,  orange , orange, orange, navy);
 }
 
 * { margin : 0px ; box-sizing : border-box;}
 
-header {display: block; color:Green; text-align: center; }
+header {display: block; color:Navy; text-align: center; }
 
 
 header img{ display: inline-block; width: 40px; height: 40px; vertical-align: middle; }
@@ -17,15 +17,15 @@ nav {display:block;  text-align: center; margin-left: auto; margin-right: auto;}
 
 nav li { display:inline-block; }
 
-main {padding: 5px; border: 1px solid Orange;}
+main {padding: 5px; ; width: 80%; margin-left: auto; margin-right: auto;}
 
-main h2{ color: Orange; text-align:center;}
+main h2{ color: Navy; text-align:center;}
 
-main h4{ text-align:center; font-family: "Castellar",fantasy; width: 60%; }
+main h4{ text-align:center; font-family: "Castellar",fantasy; margin-left:auto; margin-right:auto; color: navy;}
 
 main figure img { display: block; align-content: center; background:Orange; margin-left: auto; margin-right:auto; padding: 5px; border: 30px navy;}
 
-main h3 {color:White; text-align: center; background:Green;}
+main h3 {color:White; text-align: center; background:Navy;}
 
 figcaption { display: block;color:Navy; margin-left: auto; margin-right:auto; text-align:center;}
 
