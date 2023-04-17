@@ -6,7 +6,7 @@ html {
 
 * { margin : 0px ; box-sizing : border-box;}
 
-header {display: block; color:red; text-align: center; }
+header {display: block; color:red; text-align: center; background-color:powderblue; width: 80%; margin-left:auto; margin-right: auto;}
 
 
 header img{ display: inline-block; width: 40px; height: 40px; vertical-align: middle; }
@@ -25,8 +25,8 @@ main h4{ text-align:center; font-family: "Castellar",fantasy; margin-left:auto; 
 
 main figure img { display: block; align-content: center; background:navy; margin-left: auto; margin-right:auto; padding: 5px; border: 30px navy;}
 
-main h3 {color:PowderBlue; text-align: center; background:Navy;}
+main h3 {color:PowderBlue; text-align: center; background:Navy; font-family:Impact; }
 
 figcaption { display: block;color:Navy; margin-left: auto; margin-right:auto; text-align:center;}
 
-footer {font-style: italic; color:PowderBlue;}
+footer {font-style: italic; color:PowderBlue; text-align: center;}
