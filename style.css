@@ -1,7 +1,7 @@
 html {
   height: 100%;
   width: 100%;
-  background-image: linear-gradient(to right, green , white);
+  background-image: linear-gradient(to right, green , white, white, white,  green);
 }
 
 * { margin : 0px ; box-sizing : border-box;}
@@ -20,6 +20,8 @@ nav li { display:inline-block; }
 main {padding: 5px; border: 1px solid Orange;}
 
 main h2{ color: Orange; text-align:center;}
+
+main h4{ text-align:center; font-family: "Castellar",fantasy; width: 60%; }
 
 main figure img { display: block; align-content: center; background:Orange; margin-left: auto; margin-right:auto; padding: 5px; border: 30px navy;}
 
